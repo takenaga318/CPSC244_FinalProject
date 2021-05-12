@@ -63,8 +63,12 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
+>>>>>>> parent of 172c7b6 (Merge branch 'main' of https://github.com/takenaga318/CPSC244_FinalProject into main)
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
 >>>>>>> parent of 172c7b6 (Merge branch 'main' of https://github.com/takenaga318/CPSC244_FinalProject into main)
