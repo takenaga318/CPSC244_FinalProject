@@ -14,7 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cathy'sHouse.unity
     guid: 8271b7c25e93d4545bb63178b20c4ec3
-  - enabled: 1
-    path: Assets/Scenes/GeneralStore.unity
-    guid: 5034d2fe84e2687488329c6c728f6aca
   m_configObjects: {}
