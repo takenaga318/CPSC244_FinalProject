@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16226 MB
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16343 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,338 +11,278 @@ C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
+D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61880
-Successfully changed project path to: C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
-C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
+59193
+Successfully changed project path to: D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
+D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 102.15 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 50.85 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject/Assets
+[Subsystems] Discovering subsystems at path D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce MX150 (ID=0x1d12)
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
     Vendor:   
-    VRAM:     1994 MB
-    Driver:   23.21.13.8892
+    VRAM:     6052 MB
+    Driver:   27.21.14.5671
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005215 seconds.
+Registered in 0.002615 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 163.93 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.088 seconds
+- Completed reload, in  1.250 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.024819 seconds.
+Registered in 0.003788 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.45 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.541 seconds
+- Completed reload, in  0.915 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1459 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.9 MB.
-System memory in use after: 70.0 MB.
+System memory in use before: 70.0 MB.
+System memory in use after: 70.1 MB.
 
-Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 1888.
-Total: 4.589500 ms (FindLiveObjects: 0.469300 ms CreateObjectMapping: 0.190200 ms MarkObjects: 3.725100 ms  DeleteObjects: 0.202100 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/TinyRPGTown/Artwork/tileset.png
-  artifactKey: Guid(61bda409e13a345bcb9e55db18b42f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/tileset.png using Guid(61bda409e13a345bcb9e55db18b42f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6167ca0131cd7fadf8efb4b4568d7b7') in 0.549954 seconds
-  Import took 0.559563 seconds .
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 2.941200 ms (FindLiveObjects: 0.566700 ms CreateObjectMapping: 0.147900 ms MarkObjects: 2.150000 ms  DeleteObjects: 0.074400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 95.654149 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab
-  artifactKey: Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab using Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0c0409ba96bdb4baa4f0658bbe33c4') in 0.034142 seconds
-  Import took 0.047670 seconds .
+  path: Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16
+  artifactKey: Guid(6aaf8a7e74bb9504aa85d197c3eaa28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16 using Guid(6aaf8a7e74bb9504aa85d197c3eaa28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b42783c59ea258b8c721902e079dfd4') in 0.010680 seconds
+  Import took 0.014106 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.925935 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/building-inn.asset
-  artifactKey: Guid(718cdabeba71be948800fbc944bb0655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/building-inn.asset using Guid(718cdabeba71be948800fbc944bb0655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028de5c288b00a6bdb1f229f0ca23824') in 0.073900 seconds
-  Import took 0.085240 seconds .
+  Time since last request: 0.000635 seconds.
+  path: Assets/Sprites/houses.png
+  artifactKey: Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/houses.png using Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd53506acaa729612ada8afd79dc7fda') in 0.913000 seconds
+  Import took 0.919721 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000676 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab
-  artifactKey: Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab using Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd7ac6bde6340e15be3a4a4f8703ff2') in 0.008655 seconds
-  Import took 0.018454 seconds .
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package/unity
+  artifactKey: Guid(1cdba9c612df89c499b7f8f077c61100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package/unity using Guid(1cdba9c612df89c499b7f8f077c61100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75701f2f544c7174251400d277cde27f') in 0.013130 seconds
+  Import took 0.017067 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 32.160964 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/building-inn 1.asset
-  artifactKey: Guid(0f2beafe897f3634b924ceeb6ec9677a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/building-inn 1.asset using Guid(0f2beafe897f3634b924ceeb6ec9677a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7ce362cbc4cce698487b1a399f244e') in 0.014994 seconds
-  Import took 0.025136 seconds .
+  Time since last request: 0.000066 seconds.
+  path: Assets/Sprites/InteriorSprites
+  artifactKey: Guid(468d1a68b6a001e46a8fc15d8dd362f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites using Guid(468d1a68b6a001e46a8fc15d8dd362f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096d03c0d6dd8d250d43ef877cb23a8a') in 0.030015 seconds
+  Import took 0.044853 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000620 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_1.asset
-  artifactKey: Guid(6898c0c6ccdd1cf428ab46dc7229ca91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_1.asset using Guid(6898c0c6ccdd1cf428ab46dc7229ca91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04448507bc175471fffbc62b831a927') in 0.022710 seconds
-  Import took 0.030950 seconds .
+  Time since last request: 0.000072 seconds.
+  path: Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package
+  artifactKey: Guid(c21cae33c07a26845accd6f4b7aed8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package using Guid(c21cae33c07a26845accd6f4b7aed8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d41385452198140f95497510f66abc6') in 0.011752 seconds
+  Import took 0.021752 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000678 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_6.asset
-  artifactKey: Guid(e6ef99f6305561f47ad7c6f5a2f7b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_6.asset using Guid(e6ef99f6305561f47ad7c6f5a2f7b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0226508c7b7ecb0220ac028a33add9e7') in 0.015048 seconds
-  Import took 0.022479 seconds .
+  Time since last request: 0.000503 seconds.
+  path: Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package/unity/tile_palette.unitypackage
+  artifactKey: Guid(a36e68651dee03f4e83473b40667aec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Super_Retro_World_Interior_pack_week16/Package/unity/tile_palette.unitypackage using Guid(a36e68651dee03f4e83473b40667aec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dfef086bacf60a10825658003839bf') in 0.021776 seconds
+  Import took 0.024978 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000624 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_6.asset
-  artifactKey: Guid(19bab23b1e04f9f42a5b255371051a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_6.asset using Guid(19bab23b1e04f9f42a5b255371051a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b12a764f2794751a831b85f24871a4') in 0.038594 seconds
-  Import took 0.049375 seconds .
+  Time since last request: 45.162925 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1
+  artifactKey: Guid(18ba03fb3bd05fb4c8824a92e784408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1 using Guid(18ba03fb3bd05fb4c8824a92e784408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b66019733a116e4459a2ea8a57b63d') in 0.012316 seconds
+  Import took 0.015303 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001047 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_3.asset
-  artifactKey: Guid(ea9d2d3f3e7e49844b850e66ac0ee212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_3.asset using Guid(ea9d2d3f3e7e49844b850e66ac0ee212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb16bd92f73365c050590ce17579f6d2') in 0.015498 seconds
-  Import took 0.024871 seconds .
+  Time since last request: 7.564045 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1/4 BigSet.png
+  artifactKey: Guid(adfb3477e2c647d48b8434c61172aad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1/4 BigSet.png using Guid(adfb3477e2c647d48b8434c61172aad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9971ce41afce6651ab8da61b482e28') in 0.025790 seconds
+  Import took 0.029854 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000899 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_11.asset
-  artifactKey: Guid(fbe792c139e3b3745a887b781875bee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_11.asset using Guid(fbe792c139e3b3745a887b781875bee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e1f3745afa5261f3f2d95966839fd4') in 0.016961 seconds
-  Import took 0.028057 seconds .
+  Time since last request: 0.000051 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1/Furniture 4.png
+  artifactKey: Guid(75422c301b31908498e5fcf367c54cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1/Furniture 4.png using Guid(75422c301b31908498e5fcf367c54cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e403059546c36adabd56c2e8f150af1c') in 0.029425 seconds
+  Import took 0.032194 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000662 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_2.asset
-  artifactKey: Guid(536868b9a537ab245be3f3b5ce6db71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_2.asset using Guid(536868b9a537ab245be3f3b5ce6db71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74955e6a458c08469085e8c6eddbde09') in 0.016045 seconds
-  Import took 0.026175 seconds .
+  Time since last request: 0.000283 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1/4 Walls, Floor & Doors.png
+  artifactKey: Guid(ca51f7ba213566a4e994261f56a575e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1/4 Walls, Floor & Doors.png using Guid(ca51f7ba213566a4e994261f56a575e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0df989ff3f9c1633739aa09385226f7') in 0.018170 seconds
+  Import took 0.020851 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000879 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_2.asset
-  artifactKey: Guid(520ee9d0a72640346901efd45c691d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_2.asset using Guid(520ee9d0a72640346901efd45c691d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ecb5e36af07050c0edd3f2eaacf190') in 0.015631 seconds
-  Import took 0.023798 seconds .
+  Time since last request: 0.000047 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1/4 BigSet.png
+  artifactKey: Guid(adfb3477e2c647d48b8434c61172aad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1/4 BigSet.png using Guid(adfb3477e2c647d48b8434c61172aad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9971ce41afce6651ab8da61b482e28') in 0.011895 seconds
+  Import took 0.015575 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001015 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_10.asset
-  artifactKey: Guid(f2c9b9d6d336fe54d95f7c002f4edb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_10.asset using Guid(f2c9b9d6d336fe54d95f7c002f4edb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a11e69c700033a76ce9b856066efd18') in 0.013595 seconds
-  Import took 0.024352 seconds .
+  Time since last request: 0.000264 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection1/Carpets 4.png
+  artifactKey: Guid(b0c1c301919420f4099b623d42543c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection1/Carpets 4.png using Guid(b0c1c301919420f4099b623d42543c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462a7afda6a7e4e331160ef76fcb4731') in 0.016770 seconds
+  Import took 0.028710 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000631 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_1.asset
-  artifactKey: Guid(a283032aec42ca14ea9cef38baeb1fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_1.asset using Guid(a283032aec42ca14ea9cef38baeb1fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520f46e7ede364882f3b97b84aed0039') in 0.017388 seconds
-  Import took 0.027365 seconds .
+  Time since last request: 6.397311 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection2
+  artifactKey: Guid(2cc546819f96a0b4688207fefd049b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection2 using Guid(2cc546819f96a0b4688207fefd049b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c774fd88a4a2ca6c6e9416e522e5388d') in 0.022051 seconds
+  Import took 0.035289 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000764 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/rock-small.asset
-  artifactKey: Guid(c453ef1b9352e6344add3b9163b41bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/rock-small.asset using Guid(c453ef1b9352e6344add3b9163b41bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309aca0b390c2e6512f49712deb275f3') in 0.020493 seconds
-  Import took 0.028813 seconds .
+  Time since last request: 21.720054 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection3
+  artifactKey: Guid(56b9a6af80ebb9c40b4cebafff6757a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection3 using Guid(56b9a6af80ebb9c40b4cebafff6757a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210a50a0b459fec54ce0ec00bfa535b1') in 0.009049 seconds
+  Import took 0.012609 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000636 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_4.asset
-  artifactKey: Guid(92ae7f2f94e4ac94bb4bd30232b3625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_4.asset using Guid(92ae7f2f94e4ac94bb4bd30232b3625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271e8d457188be2c8476853ef2123c16') in 0.018703 seconds
-  Import took 0.027394 seconds .
+  Time since last request: 67.370227 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4
+  artifactKey: Guid(821529e58ca68344fae051222d82a424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4 using Guid(821529e58ca68344fae051222d82a424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6b2ba34931906710cfb1562073aa82') in 0.009271 seconds
+  Import took 0.013132 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000806 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_4.asset
-  artifactKey: Guid(90b273a5beca000438e724f36f33f44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_4.asset using Guid(90b273a5beca000438e724f36f33f44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868040e63a20f7ba7a87e363ccd5809c') in 0.014052 seconds
-  Import took 0.022544 seconds .
+  Time since last request: 14.257911 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/atlas_16x.png
+  artifactKey: Guid(27f263d8858be0f45af7544db62782fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/atlas_16x.png using Guid(27f263d8858be0f45af7544db62782fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b21e1b149566a797d41894348617543') in 0.021250 seconds
+  Import took 0.024624 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000587 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/building-thin.asset
-  artifactKey: Guid(8b3d5145d6c8ca645a4ed16d43826692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/building-thin.asset using Guid(8b3d5145d6c8ca645a4ed16d43826692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b3251ce6758ba793c8fbf6962e5de2') in 0.014210 seconds
-  Import took 0.021622 seconds .
+  Time since last request: 0.000272 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/atlas_48x.png
+  artifactKey: Guid(f03379518eb5b134f97a26ffbdbfd0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/atlas_48x.png using Guid(f03379518eb5b134f97a26ffbdbfd0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943e3fc8acb4360b7b319294d0f388b0') in 0.037728 seconds
+  Import took 0.040763 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000604 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_3.asset
-  artifactKey: Guid(59a3448ce6239094ca747388f6dd243e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_3.asset using Guid(59a3448ce6239094ca747388f6dd243e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0433b8a4551b642137a0091f17ef97ef') in 0.016365 seconds
-  Import took 0.025940 seconds .
+  Time since last request: 0.000240 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/atlas_16x.png
+  artifactKey: Guid(27f263d8858be0f45af7544db62782fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/atlas_16x.png using Guid(27f263d8858be0f45af7544db62782fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b21e1b149566a797d41894348617543') in 0.024012 seconds
+  Import took 0.029220 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000658 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_11.asset
-  artifactKey: Guid(9e1ad94a9809a494da41d47cd97d6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_11.asset using Guid(9e1ad94a9809a494da41d47cd97d6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89f1023702e6c0835e9bd13ba4b876e') in 0.015376 seconds
+  Time since last request: 0.000268 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/atlas_32x.png
+  artifactKey: Guid(52cc9ae61b7bb4a4f87d3badc9a1fe6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/atlas_32x.png using Guid(52cc9ae61b7bb4a4f87d3badc9a1fe6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86a358fb6f96fdc46380a2b58330279') in 0.020540 seconds
   Import took 0.023175 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000646 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_10.asset
-  artifactKey: Guid(ffd8464f18e0d4d43a5e09347845d95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_10.asset using Guid(ffd8464f18e0d4d43a5e09347845d95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45cc7b299291354a2646544da08805e') in 0.016706 seconds
-  Import took 0.024589 seconds .
+  Time since last request: 8.305044 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/tileset_B.png
+  artifactKey: Guid(3007134ec633f8846b2b89601427243c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/tileset_B.png using Guid(3007134ec633f8846b2b89601427243c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffec4bd36c6bf18856aee863f29c394') in 0.017474 seconds
+  Import took 0.022241 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000795 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_7.asset
-  artifactKey: Guid(fcd61a6d6af8b7a4a8fd5d889b9a1c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_7.asset using Guid(fcd61a6d6af8b7a4a8fd5d889b9a1c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a4162add7fd3c5446dfbb0bb9624e7') in 0.015195 seconds
-  Import took 0.022768 seconds .
+  Time since last request: 0.000320 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/tileset_C.png
+  artifactKey: Guid(6cf5af41d8a5a7c49871e3cd3de65d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/tileset_C.png using Guid(6cf5af41d8a5a7c49871e3cd3de65d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab5c229bce6e4209bf022ca86bf61c7') in 0.033021 seconds
+  Import took 0.035543 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000610 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_8.asset
-  artifactKey: Guid(c9e3b17f722c9b54d9f794c2f51e8986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_8.asset using Guid(c9e3b17f722c9b54d9f794c2f51e8986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a103e4f5dfaa8c74b0c64ac1b9fa43f7') in 0.012527 seconds
-  Import took 0.018200 seconds .
+  Time since last request: 3.209448 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection4/tileset_D.png
+  artifactKey: Guid(f6fe6d165f223a34db3cfbc8dcb0ad94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection4/tileset_D.png using Guid(f6fe6d165f223a34db3cfbc8dcb0ad94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fef34401059c416b8f56f81ae2ebe95') in 0.022634 seconds
+  Import took 0.026352 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000643 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab
-  artifactKey: Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/New Palette.prefab using Guid(8789f48c4303431478b072ff32025cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f251165257fdb81f2ac541c7db1303') in 0.013620 seconds
-  Import took 0.023766 seconds .
+  Time since last request: 53.805193 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection5
+  artifactKey: Guid(d500f2cebba8f4a4898d65482ecf85d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection5 using Guid(d500f2cebba8f4a4898d65482ecf85d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad60045bb6fc776ccc0cf2999852867') in 0.012078 seconds
+  Import took 0.018503 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000719 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_8.asset
-  artifactKey: Guid(332781cc48b8e3742ae50ff1b8a56ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_8.asset using Guid(332781cc48b8e3742ae50ff1b8a56ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3aebee8d543f0da2012eb19042a6bd4') in 0.015089 seconds
-  Import took 0.022897 seconds .
+  Time since last request: 7.929704 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection5/building.png
+  artifactKey: Guid(eb6c021e1b5602a438769efde289670a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection5/building.png using Guid(eb6c021e1b5602a438769efde289670a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7762b9f0b329f1c6cb9ea2e610a389f') in 0.019792 seconds
+  Import took 0.023827 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000619 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_5.asset
-  artifactKey: Guid(f6361473d603ec849b2f6ea8bf28e837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_5.asset using Guid(f6361473d603ec849b2f6ea8bf28e837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9930d4d8d1d6c5f5e7c689c8e627c6') in 0.013048 seconds
-  Import took 0.021471 seconds .
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection5/update01.png
+  artifactKey: Guid(dc5248a7e1834324d85d71be3ccd31d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection5/update01.png using Guid(dc5248a7e1834324d85d71be3ccd31d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc29a94fc6eada064daecd28ebf98429') in 0.012693 seconds
+  Import took 0.015199 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000761 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_7.asset
-  artifactKey: Guid(b5969bc7f35be6144bf15bbbe160e1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_7.asset using Guid(b5969bc7f35be6144bf15bbbe160e1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1980da3d3db78aac1e1fdbb15325a403') in 0.014285 seconds
-  Import took 0.023769 seconds .
+  Time since last request: 0.000240 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection5/originalIndoorSprites.png
+  artifactKey: Guid(774c6ccc6bc80394a9e31827856ed168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection5/originalIndoorSprites.png using Guid(774c6ccc6bc80394a9e31827856ed168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8138034e4484904b38e728efad7761cc') in 0.013895 seconds
+  Import took 0.016424 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000667 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_9.asset
-  artifactKey: Guid(4c427acbe8a4b504e9059f74fc058057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_9.asset using Guid(4c427acbe8a4b504e9059f74fc058057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedb0b1499b0feb5669733fb10669d48') in 0.015229 seconds
-  Import took 0.024372 seconds .
+  Time since last request: 0.000366 seconds.
+  path: Assets/Sprites/InteriorSprites/Collection5/tilableFloorsAndWalls.png
+  artifactKey: Guid(0ba8657463264c64f96483e4997226dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/InteriorSprites/Collection5/tilableFloorsAndWalls.png using Guid(0ba8657463264c64f96483e4997226dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b804223d75b41379f3297afb474277ee') in 0.011842 seconds
+  Import took 0.014393 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000744 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/chest.asset
-  artifactKey: Guid(c363b931058c2a04f97307a7c6b875fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/chest.asset using Guid(c363b931058c2a04f97307a7c6b875fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7652496bebabc80be08f5fd5fb48164a') in 0.013124 seconds
-  Import took 0.020603 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001254 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/building.asset
-  artifactKey: Guid(c09e3b0391a490044beb85e9656c543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/building.asset using Guid(c09e3b0391a490044beb85e9656c543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db82830b9a25eea9da142365a00a226') in 0.017444 seconds
-  Import took 0.028064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000735 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/rock.asset
-  artifactKey: Guid(a8e1454a377096e4a8737e137cc77917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/rock.asset using Guid(a8e1454a377096e4a8737e137cc77917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a888bf0ba23889b86381f972cd3631a') in 0.015866 seconds
-  Import took 0.023638 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000687 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_0.asset
-  artifactKey: Guid(14a35a8ae131f2f4a9918ab4f58c789b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_0.asset using Guid(14a35a8ae131f2f4a9918ab4f58c789b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8f7b0d3caeea84bdeed10cc7327ea5') in 0.015549 seconds
-  Import took 0.024778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000602 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/npc_0.asset
-  artifactKey: Guid(f282f5aba30c8d646b9cf1bab5e18b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/npc_0.asset using Guid(f282f5aba30c8d646b9cf1bab5e18b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1f0b79f92dca4172f499b23d57bd3b8') in 0.014420 seconds
-  Import took 0.022217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000669 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_5.asset
-  artifactKey: Guid(6f76235394d29c84b91a8586f4b99712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_5.asset using Guid(6f76235394d29c84b91a8586f4b99712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1811b2dc4ea75ebc6e24f3108bc20c26') in 0.014639 seconds
-  Import took 0.022978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000715 seconds.
-  path: Assets/TinyRPGTown/Artwork/Sprites/hero_9.asset
-  artifactKey: Guid(0809e6ddead25ea4facfcb6a5d3b22e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TinyRPGTown/Artwork/Sprites/hero_9.asset using Guid(0809e6ddead25ea4facfcb6a5d3b22e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188f6f35a7a2c49ed1747ca5c4c795f0') in 0.015543 seconds
-  Import took 0.023724 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
