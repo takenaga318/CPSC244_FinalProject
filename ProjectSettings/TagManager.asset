@@ -56,3 +56,24 @@ TagManager:
   - name: Props
     uniqueID: 2208990719
     locked: 0
+  - name: Floor
+    uniqueID: 3865352521
+    locked: 0
+  - name: Carpet
+    uniqueID: 557642405
+    locked: 0
+  - name: Walls
+    uniqueID: 2329078203
+    locked: 0
+  - name: Other
+    uniqueID: 2837921
+    locked: 0
+  - name: Furniture
+    uniqueID: 294342261
+    locked: 0
+  - name: Furniture Other
+    uniqueID: 3572820869
+    locked: 0
+  - name: Player
+    uniqueID: 696019891
+    locked: 0
