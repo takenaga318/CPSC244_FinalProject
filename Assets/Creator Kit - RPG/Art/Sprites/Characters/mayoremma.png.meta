@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 3f70bad50b4e4754a8bbcc4fd6c3e934
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7889009315589725851
+    second: mayoremma_0
+  - first:
+      213: -3974969601818829213
+    second: mayoremma_1
+  - first:
+      213: -7600345430288153574
+    second: mayoremma_2
+  - first:
+      213: 8394941758967209402
+    second: mayoremma_3
+  - first:
+      213: -439358971109785717
+    second: mayoremma_4
+  - first:
+      213: -970042337690667508
+    second: mayoremma_5
+  - first:
+      213: 1709149721627759352
+    second: mayoremma_6
+  - first:
+      213: -2126034545770305789
+    second: mayoremma_7
+  - first:
+      213: -6269347025370332441
+    second: mayoremma_8
+  - first:
+      213: -6114741821833988222
+    second: mayoremma_9
+  - first:
+      213: -3944673081942373013
+    second: mayoremma_10
+  - first:
+      213: -5733879980236111903
+    second: mayoremma_11
+  - first:
+      213: 6333425053853909341
+    second: mayoremma_12
+  - first:
+      213: -3874501560263435376
+    second: mayoremma_13
+  - first:
+      213: -92938268965789975
+    second: mayoremma_14
+  - first:
+      213: -8957171037694304114
+    second: mayoremma_15
+  - first:
+      213: -2196376775198870732
+    second: mayoremma_16
+  - first:
+      213: 1591879299335491798
+    second: mayoremma_17
+  - first:
+      213: 5589275876653143161
+    second: mayoremma_18
+  - first:
+      213: -5808831772171572857
+    second: mayoremma_19
+  - first:
+      213: -3010388353837014582
+    second: mayoremma_20
+  - first:
+      213: -8175211277136408260
+    second: mayoremma_21
+  - first:
+      213: -2347687712726446198
+    second: mayoremma_22
+  - first:
+      213: -1989897828330901222
+    second: mayoremma_23
+  - first:
+      213: 2338619534766367704
+    second: mayoremma_24
+  - first:
+      213: -3606838357437326858
+    second: mayoremma_25
+  - first:
+      213: -236664938285999120
+    second: mayoremma_26
+  - first:
+      213: -6394371197055992572
+    second: mayoremma_27
+  - first:
+      213: -4436398687487269884
+    second: mayoremma_28
+  - first:
+      213: 5908765862549815550
+    second: mayoremma_29
+  - first:
+      213: 2883582645728683114
+    second: mayoremma_30
+  - first:
+      213: -3117921615399132319
+    second: mayoremma_31
+  - first:
+      213: -5781339699517670338
+    second: mayoremma_32
+  - first:
+      213: 3509383841084224232
+    second: mayoremma_33
+  - first:
+      213: -7642622266113615612
+    second: mayoremma_34
+  - first:
+      213: -9094151012803966204
+    second: mayoremma_35
+  - first:
+      213: 1013264454041594975
+    second: mayoremma_36
+  - first:
+      213: 2175011810631192739
+    second: mayoremma_37
+  - first:
+      213: 5328091373839422117
+    second: mayoremma_38
+  - first:
+      213: -5818322904434525709
+    second: mayoremma_39
+  - first:
+      213: -5763648153362670556
+    second: mayoremma_40
+  - first:
+      213: 6955197537134746770
+    second: mayoremma_41
+  - first:
+      213: 3441802157745696697
+    second: mayoremma_42
+  - first:
+      213: 7323241106194977305
+    second: mayoremma_43
+  - first:
+      213: 5373766990482462420
+    second: mayoremma_44
+  - first:
+      213: -8733850100657313099
+    second: mayoremma_45
+  - first:
+      213: 6663556288545778286
+    second: mayoremma_46
+  - first:
+      213: 3780694223714051896
+    second: mayoremma_47
+  - first:
+      213: 5264995916166823887
+    second: mayoremma_48
+  - first:
+      213: -4135976172506923127
+    second: mayoremma_49
+  - first:
+      213: 8514219734105093704
+    second: mayoremma_50
+  - first:
+      213: -5509188290179214476
+    second: mayoremma_51
+  - first:
+      213: 2613572214756265329
+    second: mayoremma_52
+  - first:
+      213: 3186200651668247548
+    second: mayoremma_53
+  - first:
+      213: -9164389176672710519
+    second: mayoremma_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mayoremma_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e68243db948290800000000000000
+      internalID: -7889009315589725851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 448
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edc9a153216d8c0800000000000000
+      internalID: -3974969601818829213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1449697916268690800000000000000
+      internalID: -7600345430288153574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 448
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd555d2d03d08470800000000000000
+      internalID: 8394941758967209402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 448
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbe16f75517e9f0800000000000000
+      internalID: -439358971109785717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 448
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06bbd422a7b982f0800000000000000
+      internalID: -970042337690667508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29499cd9e18b710800000000000000
+      internalID: 1709149721627759352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307e62748dece72e0800000000000000
+      internalID: -2126034545770305789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 384
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2462bc81ecef8a0800000000000000
+      internalID: -6269347025370332441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2873c58d5b2142ba0800000000000000
+      internalID: -6114741821833988222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d87c35bb4b149c0800000000000000
+      internalID: -3944673081942373013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 386
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7d41998a2d60b0800000000000000
+      internalID: -5733879980236111903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 384
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518582d788d4e750800000000000000
+      internalID: 6333425053853909341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1dc2eb510b3ac0800000000000000
+      internalID: -3874501560263435376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee11440321d5bef0800000000000000
+      internalID: -92938268965789975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 386
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8060d9f56cb1b380800000000000000
+      internalID: -8957171037694304114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337a59b5f6e481e0800000000000000
+      internalID: -2196376775198870732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09032e9cd771610800000000000000
+      internalID: 1591879299335491798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974129bebc8119d40800000000000000
+      internalID: 5589275876653143161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789e5bb9742e26fa0800000000000000
+      internalID: -5808831772171572857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1629dedb3f836d0800000000000000
+      internalID: -3010388353837014582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 320
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31548658a0db8e80800000000000000
+      internalID: -8175211277136408260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f046fb6765b6fd0800000000000000
+      internalID: -2347687712726446198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f303d7767264e0800000000000000
+      internalID: -1989897828330901222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 256
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e98a8312747020800000000000000
+      internalID: 2338619534766367704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d1beaf9fe1fdc0800000000000000
+      internalID: -3606838357437326858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb5ca61e7237bcf0800000000000000
+      internalID: -236664938285999120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dfc7d6641a247a0800000000000000
+      internalID: -6394371197055992572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 256
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404ef4616eebe62c0800000000000000
+      internalID: -4436398687487269884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 256
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08c3afe37200250800000000000000
+      internalID: 5908765862549815550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a32f632b840820800000000000000
+      internalID: 2883582645728683114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 256
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1636f9c6fcaeab4d0800000000000000
+      internalID: -3117921615399132319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb2649c2e84cfa0800000000000000
+      internalID: -5781339699517670338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 40
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2325c8206d3b030800000000000000
+      internalID: 3509383841084224232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099ec39a83ffe590800000000000000
+      internalID: -7642622266113615612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8f0436d51bc180800000000000000
+      internalID: -9094151012803966204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 52
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ceda607a6df0e00800000000000000
+      internalID: 1013264454041594975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_37
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 52
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a093f2d7b13f2e10800000000000000
+      internalID: 2175011810631192739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2958400ee21f940800000000000000
+      internalID: 5328091373839422117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f939ac252a214fa0800000000000000
+      internalID: -5818322904434525709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 128
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5b78aa886300b0800000000000000
+      internalID: -5763648153362670556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c969f4f43d58060800000000000000
+      internalID: 6955197537134746770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 130
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfea97b3dcb3cf20800000000000000
+      internalID: 3441802157745696697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 134
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125a436cf061a560800000000000000
+      internalID: 7323241106194977305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d65d6d3b94739a40800000000000000
+      internalID: 5373766990482462420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baafcc7b912bc680800000000000000
+      internalID: -8733850100657313099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a679fa325b97c50800000000000000
+      internalID: 6663556288545778286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e8d09d59b77430800000000000000
+      internalID: 3780694223714051896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf710ff3e5011940800000000000000
+      internalID: 5264995916166823887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbe3e959f0a96c0800000000000000
+      internalID: -4135976172506923127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84674f6ecb5982670800000000000000
+      internalID: 8514219734105093704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735023607e6b83b0800000000000000
+      internalID: -5509188290179214476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc06ff416454420800000000000000
+      internalID: 2613572214756265329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ddc98c98a73c20800000000000000
+      internalID: 3186200651668247548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayoremma_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801dfc499c81d080800000000000000
+      internalID: -9164389176672710519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

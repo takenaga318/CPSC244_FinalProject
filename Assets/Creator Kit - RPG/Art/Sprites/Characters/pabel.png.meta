@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 7691c9df21615364890140735587a458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 349804457397572700
+    second: pabel_0
+  - first:
+      213: -4949199650152902206
+    second: pabel_1
+  - first:
+      213: 2081007037502229393
+    second: pabel_2
+  - first:
+      213: -1999789679780801910
+    second: pabel_3
+  - first:
+      213: -1522258534765976887
+    second: pabel_4
+  - first:
+      213: 8608812348261840799
+    second: pabel_5
+  - first:
+      213: -3367334137440860087
+    second: pabel_6
+  - first:
+      213: -7565427026656474868
+    second: pabel_7
+  - first:
+      213: 1604628889944873838
+    second: pabel_8
+  - first:
+      213: -2084140128653473626
+    second: pabel_9
+  - first:
+      213: -4975851756720285965
+    second: pabel_10
+  - first:
+      213: -2810178549955599398
+    second: pabel_11
+  - first:
+      213: -1045460898218256636
+    second: pabel_12
+  - first:
+      213: 5304699129993392541
+    second: pabel_13
+  - first:
+      213: -2886330573943584813
+    second: pabel_14
+  - first:
+      213: -3004938186615550560
+    second: pabel_15
+  - first:
+      213: -7044268362620546459
+    second: pabel_16
+  - first:
+      213: 9023095304672175136
+    second: pabel_17
+  - first:
+      213: 7936566809303237616
+    second: pabel_18
+  - first:
+      213: -3127683587904796103
+    second: pabel_19
+  - first:
+      213: -9050683375734245529
+    second: pabel_20
+  - first:
+      213: -15394410772276098
+    second: pabel_21
+  - first:
+      213: -1524391286032070180
+    second: pabel_22
+  - first:
+      213: -5821068011147075483
+    second: pabel_23
+  - first:
+      213: 6362811630715413124
+    second: pabel_24
+  - first:
+      213: 4100766435225570753
+    second: pabel_25
+  - first:
+      213: -7097636837168430643
+    second: pabel_26
+  - first:
+      213: 5099591245480527464
+    second: pabel_27
+  - first:
+      213: 395201065466933827
+    second: pabel_28
+  - first:
+      213: -4593954227745542593
+    second: pabel_29
+  - first:
+      213: -3157347833169566653
+    second: pabel_30
+  - first:
+      213: -3255971230864213805
+    second: pabel_31
+  - first:
+      213: -3767404116767020192
+    second: pabel_32
+  - first:
+      213: 802599234407425899
+    second: pabel_33
+  - first:
+      213: 6525917109524905685
+    second: pabel_34
+  - first:
+      213: 1934389122616118932
+    second: pabel_35
+  - first:
+      213: 8815260233557205637
+    second: pabel_36
+  - first:
+      213: -3386946157552427594
+    second: pabel_37
+  - first:
+      213: -1973368495917354748
+    second: pabel_38
+  - first:
+      213: -6035402527389257239
+    second: pabel_39
+  - first:
+      213: -7789569128590412185
+    second: pabel_40
+  - first:
+      213: -429154251809784555
+    second: pabel_41
+  - first:
+      213: 162375046988715907
+    second: pabel_42
+  - first:
+      213: -7964941394739595418
+    second: pabel_43
+  - first:
+      213: -1379902821170130009
+    second: pabel_44
+  - first:
+      213: 4600270574171400013
+    second: pabel_45
+  - first:
+      213: -6689581578131267007
+    second: pabel_46
+  - first:
+      213: 5722426572625828009
+    second: pabel_47
+  - first:
+      213: -8340272175608145112
+    second: pabel_48
+  - first:
+      213: 5782097831348366442
+    second: pabel_49
+  - first:
+      213: -7502897931818698175
+    second: pabel_50
+  - first:
+      213: -2158195670014807369
+    second: pabel_51
+  - first:
+      213: -731502590783441603
+    second: pabel_52
+  - first:
+      213: 7383112491056460110
+    second: pabel_53
+  - first:
+      213: 5504996173821275025
+    second: pabel_54
+  - first:
+      213: 4365035252492918221
+    second: pabel_55
+  - first:
+      213: -5641415158967709119
+    second: pabel_56
+  - first:
+      213: -8871545389815744216
+    second: pabel_57
+  - first:
+      213: -718322755329584079
+    second: pabel_58
+  - first:
+      213: 6589081773548247220
+    second: pabel_59
+  - first:
+      213: 3808695403729530334
+    second: pabel_60
+  - first:
+      213: -4956742306541170335
+    second: pabel_61
+  - first:
+      213: -8386126407445425874
+    second: pabel_62
+  - first:
+      213: -2801061068573089062
+    second: pabel_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pabel_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 448
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54d708fc41cad400800000000000000
+      internalID: 349804457397572700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11622e329e05bb0800000000000000
+      internalID: -4949199650152902206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 448
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b886dffd831ec10800000000000000
+      internalID: 2081007037502229393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825c2fa1e15f34e0800000000000000
+      internalID: -1999789679780801910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 448
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a7fa8de9dfdae0800000000000000
+      internalID: -1522258534765976887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b4242835a87770800000000000000
+      internalID: 8608812348261840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 448
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488ac16173d441d0800000000000000
+      internalID: -3367334137440860087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 448
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09400ed334320790800000000000000
+      internalID: -7565427026656474868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 384
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5e754979c44610800000000000000
+      internalID: 1604628889944873838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a809716895a313e0800000000000000
+      internalID: -2084140128653473626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 384
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61fa1c03932fab0800000000000000
+      internalID: -4975851756720285965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 387
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3697e6f7d3009d0800000000000000
+      internalID: -2810178549955599398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 384
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d3272ad6cd71f0800000000000000
+      internalID: -1045460898218256636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917493d0c31e9940800000000000000
+      internalID: 5304699129993392541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d74ebba2a1b1f7d0800000000000000
+      internalID: -2886330573943584813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 387
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad06ced3a05c46d0800000000000000
+      internalID: -3004938186615550560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562da7f0f3bbd3e90800000000000000
+      internalID: -7044268362620546459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ea798f59783d70800000000000000
+      internalID: 9023095304672175136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ccac9679542e60800000000000000
+      internalID: 7936566809303237616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8d15195c3894d0800000000000000
+      internalID: -3127683587904796103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 320
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b3de1c63856280800000000000000
+      internalID: -9050683375734245529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 320
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c546e6dde49cff0800000000000000
+      internalID: -15394410772276098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98b51b33648dae0800000000000000
+      internalID: -1524391286032070180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56060363c79673fa0800000000000000
+      internalID: -5821068011147075483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482248d677f3d4850800000000000000
+      internalID: 6362811630715413124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd07769859d8e830800000000000000
+      internalID: 4100766435225570753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc149d7c6e0208d90800000000000000
+      internalID: -7097636837168430643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 257
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660f8e083365c640800000000000000
+      internalID: 5099591245480527464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 253
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342330276490c7500800000000000000
+      internalID: 395201065466933827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea2dc38fefe30c0800000000000000
+      internalID: -4593954227745542593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 256
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442493cfd8de24d0800000000000000
+      internalID: -3157347833169566653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d872799a6770d2d0800000000000000
+      internalID: -3255971230864213805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 257
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be1c69aed77bbc0800000000000000
+      internalID: -3767404116767020192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ead750c7632b00800000000000000
+      internalID: 802599234407425899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de30ea0907b09a50800000000000000
+      internalID: 6525917109524905685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec9ee78a458da10800000000000000
+      internalID: 1934389122616118932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582edc72a78165a70800000000000000
+      internalID: 8815260233557205637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd96bd1a662ff0d0800000000000000
+      internalID: -3386946157552427594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40136edeecf2d94e0800000000000000
+      internalID: -1973368495917354748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f776d061fd3ca0800000000000000
+      internalID: -6035402527389257239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f4010624e5e390800000000000000
+      internalID: -7789569128590412185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d77035b765b0af0800000000000000
+      internalID: -429154251809784555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875624be3fd04200800000000000000
+      internalID: 162375046988715907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 128
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667fdb56008d67190800000000000000
+      internalID: -7964941394739595418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35897f1b999dce0800000000000000
+      internalID: -1379902821170130009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 128
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472b24c6b177df30800000000000000
+      internalID: 4600270574171400013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 130
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422d736ff4d923a0800000000000000
+      internalID: -6689581578131267007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 135
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85e9a26a42a6f40800000000000000
+      internalID: 5722426572625828009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 64
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5dca15a6614c80800000000000000
+      internalID: -8340272175608145112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c631eb7532e3050800000000000000
+      internalID: 5782097831348366442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14afee3451a50e790800000000000000
+      internalID: -7502897931818698175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23bf4097c8c02e0800000000000000
+      internalID: -2158195670014807369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d353314f44e29d5f0800000000000000
+      internalID: -731502590783441603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_53
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417b2671b5167660800000000000000
+      internalID: 7383112491056460110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b60867adca56c40800000000000000
+      internalID: 5504996173821275025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd5e86f68b39c30800000000000000
+      internalID: 4365035252492918221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d93b6dcaa5b1b0800000000000000
+      internalID: -5641415158967709119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829374fa870f1e480800000000000000
+      internalID: -8871545389815744216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134108682410806f0800000000000000
+      internalID: -718322755329584079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8185c66fe117b50800000000000000
+      internalID: 6589081773548247220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd26f45a443bd430800000000000000
+      internalID: 3808695403729530334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1619677522d163bb0800000000000000
+      internalID: -4956742306541170335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_62
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2151bac67e7e9b80800000000000000
+      internalID: -8386126407445425874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabel_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2668d7cc1a029d0800000000000000
+      internalID: -2801061068573089062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
