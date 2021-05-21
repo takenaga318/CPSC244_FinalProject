@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/FinalProject.unity
     guid: 6f7f323fbafea47d6b437a00d0d10d3d
   - enabled: 1
-    path: Assets/Scenes/DetectiveHouse.unity
-    guid: a0ee7ef8e8eb63e41893b7a1bb2c17bc
-  - enabled: 1
     path: Assets/Scenes/Cathy'sHouse.unity
     guid: 8271b7c25e93d4545bb63178b20c4ec3
+  - enabled: 1
+    path: Assets/Scenes/Detective'sHouse.unity
+    guid: ef87241eb8a326241a3639f023e62e87
+  - enabled: 1
+    path: Assets/Scenes/GeneralStore.unity
+    guid: d446ef72a60f3744e8a007f743f04391
   m_configObjects: {}

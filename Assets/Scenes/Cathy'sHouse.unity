@@ -60157,7 +60157,7 @@ PrefabInstance:
     - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
         type: 3}
       propertyPath: PlayerPosition.y
-      value: -15
+      value: -14.7
       objectReference: {fileID: 0}
     - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
         type: 3}
