@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GeneralStore.unity
     guid: d446ef72a60f3744e8a007f743f04391
+  - enabled: 1
+    path: Assets/Scenes/Mayor'sHouse.unity
+    guid: 872034f5f4e213a4eae2167e095877fe
+  - enabled: 1
+    path: Assets/Scenes/PostOffice.unity
+    guid: ee75271211c760a4c93b940e8f599626
   m_configObjects: {}
