@@ -15,11 +15,11 @@ D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
 -logFile
 Logs/AssetImportWorker41.log
 -srvPort
-50187
+51469
 Successfully changed project path to: D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
 D:/CPSC_244_SPRING_2021/Unity Game Levels/CPSC244_FinalProject
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 72.18 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 84.67 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
@@ -40,21 +40,21 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004434 seconds.
+Registered in 0.002779 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 64.69 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 72.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.650 seconds
+- Completed reload, in  1.632 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002804 seconds.
+Registered in 0.002732 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.939 seconds
+- Completed reload, in  0.969 seconds
 Platform modules already initialized, skipping
