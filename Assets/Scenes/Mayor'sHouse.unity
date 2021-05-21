@@ -63607,9 +63607,26 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
         type: 3}
+      propertyPath: FadeWait
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
+        type: 3}
+      propertyPath: FadeInPanel
+      value: 
+      objectReference: {fileID: 6949443246912964055, guid: 5a67eec36885acf45bd79fd51e93f455,
+        type: 3}
+    - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
+        type: 3}
       propertyPath: SceneToLoad
       value: FinalProject
       objectReference: {fileID: 0}
+    - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
+        type: 3}
+      propertyPath: FadeOutPanel
+      value: 
+      objectReference: {fileID: 406141927666751580, guid: e5351f40818f0344ebcbc795a2299c6e,
+        type: 3}
     - target: {fileID: 921238085092901074, guid: 55590d0d31c39654f9bac59f591035a3,
         type: 3}
       propertyPath: PlayerStorage
