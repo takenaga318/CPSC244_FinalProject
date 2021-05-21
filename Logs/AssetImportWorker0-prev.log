@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 16226 MB
+OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 8108 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,911 +11,1066 @@ C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
+C:/Users/saltw/Documents/GitHub/CPSC244_FinalProject
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64807
-Successfully changed project path to: C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
-C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject
+50237
+Successfully changed project path to: C:/Users/saltw/Documents/GitHub/CPSC244_FinalProject
+C:/Users/saltw/Documents/GitHub/CPSC244_FinalProject
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 272.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 155.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/mwood/OneDrive/Documents/GitHub/CPSC244_FinalProject/Assets
+[Subsystems] Discovering subsystems at path C:/Users/saltw/Documents/GitHub/CPSC244_FinalProject/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce MX150 (ID=0x1d12)
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
     Vendor:   
-    VRAM:     1994 MB
-    Driver:   23.21.13.8892
+    VRAM:     4054 MB
+    Driver:   27.20.100.8681
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004553 seconds.
+Registered in 0.002644 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 121.15 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 105.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.790 seconds
+- Completed reload, in  5.911 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008854 seconds.
+Registered in 0.005391 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.703 seconds
+- Completed reload, in  1.448 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 2.01 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1462 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 72.3 MB.
 System memory in use after: 72.4 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1892.
-Total: 4.251800 ms (FindLiveObjects: 0.446800 ms CreateObjectMapping: 0.184300 ms MarkObjects: 3.501200 ms  DeleteObjects: 0.117400 ms)
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 3.187900 ms (FindLiveObjects: 0.380200 ms CreateObjectMapping: 0.100800 ms MarkObjects: 2.567200 ms  DeleteObjects: 0.137500 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/RPGTown_mixdown.mp3
   artifactKey: Guid(844492d8bdc81a64fab8a474c4f842ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPGTown_mixdown.mp3 using Guid(844492d8bdc81a64fab8a474c4f842ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27721f17f073e8c7802fbbeaaafaca20') in 0.323934 seconds
-  Import took 0.333873 seconds .
+Start importing Assets/RPGTown_mixdown.mp3 using Guid(844492d8bdc81a64fab8a474c4f842ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b43e2630543061ad2d0f214e236157c') in 0.225205 seconds
+  Import took 0.229784 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 62.649385 seconds.
-  path: Assets/Creator Kit - RPG
-  artifactKey: Guid(1e891b8029d454c93a95feb56e9901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG using Guid(1e891b8029d454c93a95feb56e9901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7faabfd284dc441e05f1162878f9db') in 0.003500 seconds
-  Import took 0.008517 seconds .
+  Time since last request: 0.000812 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee01c6f2f6e770b13c05fd14f1fe37d6') in 0.026546 seconds
+  Import took 0.031191 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001070 seconds.
-  path: Assets/Creator Kit - RPG
-  artifactKey: Guid(1e891b8029d454c93a95feb56e9901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG using Guid(1e891b8029d454c93a95feb56e9901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7faabfd284dc441e05f1162878f9db') in 0.003488 seconds
-  Import took 0.010290 seconds .
+  Time since last request: 455.857815 seconds.
+  path: Assets/Sprites/forest-tiles.png
+  artifactKey: Guid(5674678104bfbc444a7ebe6d31f3edca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/forest-tiles.png using Guid(5674678104bfbc444a7ebe6d31f3edca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb1085f64966b23346981c2b8f533f2') in 0.278985 seconds
+  Import took 0.291197 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.411679 seconds.
-  path: Assets/Creator Kit - RPG/Audio
-  artifactKey: Guid(9517eb89f981b4b84b09b71074ad9b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Creator Kit - RPG/Audio using Guid(9517eb89f981b4b84b09b71074ad9b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2ee06c1baecbbae23bc1ac9e4be5a4') in 0.010653 seconds
-  Import took 0.018583 seconds .
+  Time since last request: 0.001360 seconds.
+  path: Assets/Sprites/houses.png
+  artifactKey: Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/houses.png using Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eeeb64dacfcc15a6f48b28e8250dfcf') in 4.184561 seconds
+  Import took 4.201256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041590 seconds.
+  path: Assets/Sprites/houses.png
+  artifactKey: Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/houses.png using Guid(1505c770e4b81b642864e98ae3c03906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eeeb64dacfcc15a6f48b28e8250dfcf') in 4.132572 seconds
+  Import took 4.146916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.304425 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters01_AnimationSheet.png
+  artifactKey: Guid(f22540e8ea335034b92c27795aa254c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters01_AnimationSheet.png using Guid(f22540e8ea335034b92c27795aa254c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b6c70fb60d501e6743a61e4ce4b54d') in 0.590748 seconds
+  Import took 0.612733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.373686 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters02_AnimationSheet.png
+  artifactKey: Guid(3f198c94b65508c44a32b4b4072bb419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/Characters02_AnimationSheet.png using Guid(3f198c94b65508c44a32b4b4072bb419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5766c9b36145e66f25020bde4036fb01') in 0.413281 seconds
+  Import took 0.419691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.694467 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f3094d579b68a89909af816bba8001') in 0.060902 seconds
+  Import took 0.069760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001764 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f3094d579b68a89909af816bba8001') in 0.116836 seconds
+  Import took 0.123193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.019327 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5846d7f20f9e5500ff82d361729a91e') in 0.033225 seconds
+  Import took 0.040200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023155 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5846d7f20f9e5500ff82d361729a91e') in 0.059128 seconds
+  Import took 0.069230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.508516 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae20833b29c1cf11603b6eb3691c5f7') in 3.652448 seconds
+  Import took 3.666166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.195311 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a92e331a6677d7ca7787510f3d5ade') in 0.058745 seconds
+  Import took 0.064199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.886541 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(9938271b2befa1441b85e978c97c651a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c9f32cb28ef8cbc1c4d3d79375a9b8') in 0.318493 seconds
+  Import took 0.325385 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.009134 seconds.
+Registered in 0.011663 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.55 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 6.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.833 seconds
+- Completed reload, in  4.341 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
+System memory in use before: 74.5 MB.
+System memory in use after: 74.6 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1904.
-Total: 5.250700 ms (FindLiveObjects: 0.447100 ms CreateObjectMapping: 0.185900 ms MarkObjects: 4.550100 ms  DeleteObjects: 0.065100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012627 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.08 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.548 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.52 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1907.
-Total: 4.581200 ms (FindLiveObjects: 0.463500 ms CreateObjectMapping: 0.119800 ms MarkObjects: 3.934500 ms  DeleteObjects: 0.058600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009473 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.16 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.176 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.09 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1910.
-Total: 2.813600 ms (FindLiveObjects: 0.394600 ms CreateObjectMapping: 0.101100 ms MarkObjects: 2.283300 ms  DeleteObjects: 0.032000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011017 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.414 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1913.
-Total: 3.931900 ms (FindLiveObjects: 0.310100 ms CreateObjectMapping: 0.110300 ms MarkObjects: 3.464100 ms  DeleteObjects: 0.044600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010430 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.822 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1916.
-Total: 5.252700 ms (FindLiveObjects: 2.190900 ms CreateObjectMapping: 0.394100 ms MarkObjects: 2.624900 ms  DeleteObjects: 0.039900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009295 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.146 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 73.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1919.
-Total: 3.427900 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.201100 ms MarkObjects: 2.807700 ms  DeleteObjects: 0.051300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.015181 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.583 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.29 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.8 MB.
-System memory in use after: 74.0 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1922.
-Total: 5.698700 ms (FindLiveObjects: 1.106000 ms CreateObjectMapping: 0.364700 ms MarkObjects: 4.170000 ms  DeleteObjects: 0.053800 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1978.
+Total: 7.939700 ms (FindLiveObjects: 0.747100 ms CreateObjectMapping: 0.247800 ms MarkObjects: 6.886500 ms  DeleteObjects: 0.055000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1324.684331 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Preset/Tags & Layers - Pixel Art Top Down - Basic.preset
-  artifactKey: Guid(9c251c5594f708844890276e5d8b709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Preset/Tags & Layers - Pixel Art Top Down - Basic.preset using Guid(9c251c5594f708844890276e5d8b709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38a53bde47145db7e5680aac3d790b1') in 0.049628 seconds
-  Import took 0.060243 seconds .
+  Time since last request: 479.792987 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png
+  artifactKey: Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png using Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8793282883e9da5817eef8dea75be7a7') in 0.095973 seconds
+  Import took 0.102465 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.851179 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Gate T1.prefab
-  artifactKey: Guid(4be821d0b78ad5043985b57b738e951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Gate T1.prefab using Guid(4be821d0b78ad5043985b57b738e951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc865b138419fd06a64b1633665b6ae') in 0.122422 seconds
-  Import took 0.130423 seconds .
+  Time since last request: 48.966326 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png
+  artifactKey: Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png using Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7f5bab26a2f5eeb54ef60749e8201f') in 0.026850 seconds
+  Import took 0.036124 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000501 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T2.prefab
-  artifactKey: Guid(5d42979a3c318c341b37b4b1f2c85750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T2.prefab using Guid(5d42979a3c318c341b37b4b1f2c85750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb14027e93f581b12ab6a0d6ec6481df') in 0.026762 seconds
-  Import took 0.037019 seconds .
+  Time since last request: 0.004901 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png
+  artifactKey: Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png using Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7f5bab26a2f5eeb54ef60749e8201f') in 0.024807 seconds
+  Import took 0.030471 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000466 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Barrel.prefab
-  artifactKey: Guid(413081fc53a78a043b38591243616398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Barrel.prefab using Guid(413081fc53a78a043b38591243616398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adaf01a0668ac2cf49913053efe9d6e') in 0.027380 seconds
-  Import took 0.037021 seconds .
+  Time since last request: 12.506124 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png
+  artifactKey: Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pixil-frame-0 (1).png using Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b971840fa56ba4d69de1f75dbc4cf552') in 0.387257 seconds
+  Import took 0.393795 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Chest Open.prefab
-  artifactKey: Guid(17b0c1ef334d17e4bbb74c4778001705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Chest Open.prefab using Guid(17b0c1ef334d17e4bbb74c4778001705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51fd49049648001a9624fcbd7035afd') in 0.023154 seconds
-  Import took 0.032050 seconds .
+  Time since last request: 35.271548 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController
+  artifactKey: Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController using Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64de71c24fe9e904ea109bf217f3ce04') in 0.043356 seconds
+  Import took 0.051172 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000602 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pillar Broken.prefab
-  artifactKey: Guid(cfa0a5ef94fb05d4f97d095a05dc55c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pillar Broken.prefab using Guid(cfa0a5ef94fb05d4f97d095a05dc55c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09db4d073fffd591f629ca657d6d3411') in 0.022273 seconds
-  Import took 0.032690 seconds .
+  Time since last request: 0.000339 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController
+  artifactKey: Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController using Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b438a3f2d598b3b9c89e4f9a5df18575') in 0.029615 seconds
+  Import took 0.037906 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000502 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar X2.prefab
-  artifactKey: Guid(6d6991dbbdeecb1488bbf78c063d1235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar X2.prefab using Guid(6d6991dbbdeecb1488bbf78c063d1235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137cee1b10161e6f9450b44e37be9485') in 0.028760 seconds
-  Import took 0.038118 seconds .
+  Time since last request: 0.000581 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController
+  artifactKey: Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController using Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64de71c24fe9e904ea109bf217f3ce04') in 0.016762 seconds
+  Import took 0.024737 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000601 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T1.prefab
-  artifactKey: Guid(6d69371a87148ee4dac7b2b814437ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T1.prefab using Guid(6d69371a87148ee4dac7b2b814437ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a89021d8d8d2b81951c8a1dc80eada') in 0.021036 seconds
-  Import took 0.028107 seconds .
+  Time since last request: 0.000386 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController
+  artifactKey: Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController using Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761c5dd2e5dfbc582a730151d0536a88') in 0.028420 seconds
+  Import took 0.033056 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000494 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Crate Small.prefab
-  artifactKey: Guid(2e2ac125e54a1e44780363d638b1df34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Crate Small.prefab using Guid(2e2ac125e54a1e44780363d638b1df34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f24e97cdd2eb1f1cf2566dcdd496f41') in 0.020210 seconds
-  Import took 0.027266 seconds .
+  Time since last request: 0.000565 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController
+  artifactKey: Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController using Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b438a3f2d598b3b9c89e4f9a5df18575') in 0.017921 seconds
+  Import took 0.025096 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000608 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot C.prefab
-  artifactKey: Guid(f3cc2373308c11848977b28d974a9de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot C.prefab using Guid(f3cc2373308c11848977b28d974a9de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829ebf8b34db38faf9a98077f7eeb074') in 0.023225 seconds
-  Import took 0.032692 seconds .
+  Time since last request: 0.027260 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController
+  artifactKey: Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController using Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761c5dd2e5dfbc582a730151d0536a88') in 0.014266 seconds
+  Import took 0.022456 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000654 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench E.prefab
-  artifactKey: Guid(d925f1d26bd95904886e446c97ec33c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench E.prefab using Guid(d925f1d26bd95904886e446c97ec33c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd53e85de18ec0759b5ea94ab478b95') in 0.028675 seconds
-  Import took 0.037669 seconds .
+  Time since last request: 23.359319 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/detective
+  artifactKey: Guid(bb3dd50a47a1ea64cab5071e5c976315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/detective using Guid(bb3dd50a47a1ea64cab5071e5c976315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143f320cc5a7d2d41aeb47cf82149308') in 0.005452 seconds
+  Import took 0.011454 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000701 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair L.prefab
-  artifactKey: Guid(a92434f05fc24a2408687e0356655548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair L.prefab using Guid(a92434f05fc24a2408687e0356655548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612090e2bcca6f832c188e4919a959ee') in 0.026548 seconds
-  Import took 0.037303 seconds .
+  Time since last request: 20.213266 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/detective/detective_idle.anim
+  artifactKey: Guid(1a07592857164944cbf731abf31be13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/detective/detective_idle.anim using Guid(1a07592857164944cbf731abf31be13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26ff7d87ee04723f5f4b199421afe5c') in 0.017911 seconds
+  Import took 0.023341 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000854 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench S.prefab
-  artifactKey: Guid(8fd7cba4384381e4aad6dc90158fc9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench S.prefab using Guid(8fd7cba4384381e4aad6dc90158fc9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee10827f5ec1b722733cfd5ee38761ee') in 0.055978 seconds
-  Import took 0.065997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000630 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Lantern.prefab
-  artifactKey: Guid(84395be60ff2def43bb58fa039614eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Lantern.prefab using Guid(84395be60ff2def43bb58fa039614eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6265023301417832b9daa8d2d29fbc') in 0.028494 seconds
-  Import took 0.037676 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000681 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Gate T2.prefab
-  artifactKey: Guid(b95acdc3b0c1a444c87723520fbab2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Gate T2.prefab using Guid(b95acdc3b0c1a444c87723520fbab2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b22535827a5981a9257cbe7a5f66be') in 0.022887 seconds
-  Import took 0.033740 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000566 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pillar.prefab
-  artifactKey: Guid(41ea6afb203377e42995d7d016ea5907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pillar.prefab using Guid(41ea6afb203377e42995d7d016ea5907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd137184a7034c4dbc48709e62e5f20') in 0.026472 seconds
-  Import took 0.034970 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000719 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Road Sign E.prefab
-  artifactKey: Guid(b823debd04fd63f4d8e579210fe0ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Road Sign E.prefab using Guid(b823debd04fd63f4d8e579210fe0ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49845e065034bfba6c40e60451300b8b') in 0.021630 seconds
-  Import took 0.029418 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000631 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken M.prefab
-  artifactKey: Guid(295e819650a63784185fc3d55ce9e650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken M.prefab using Guid(295e819650a63784185fc3d55ce9e650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db2f1b6e36cc090d2e6106edfe19174') in 0.024636 seconds
-  Import took 0.033253 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000910 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken L.prefab
-  artifactKey: Guid(6bc7a266104dec640a8bc2ab2e5cd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken L.prefab using Guid(6bc7a266104dec640a8bc2ab2e5cd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3aa34fc43c55bfaa698f6bfc53b169') in 0.025191 seconds
-  Import took 0.034323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000572 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken R.prefab
-  artifactKey: Guid(b7a5fce6e52ebbf488a8e8516c6692cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair Broken R.prefab using Guid(b7a5fce6e52ebbf488a8e8516c6692cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d665d20c19392cd6abf872c2c66982') in 0.023929 seconds
-  Import took 0.033813 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000679 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Chest.prefab
-  artifactKey: Guid(99597c7b4aa47494fb2b6061505735da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Chest.prefab using Guid(99597c7b4aa47494fb2b6061505735da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bb14b0c338ee560328d2483fd41151') in 0.023553 seconds
-  Import took 0.032088 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000550 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T2.prefab
-  artifactKey: Guid(713b33322b495794e92184973ece3034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T2.prefab using Guid(713b33322b495794e92184973ece3034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9082c5dc588ad08606cf2b9fd72d49f') in 0.025836 seconds
-  Import took 0.036238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000973 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Coffin H.prefab
-  artifactKey: Guid(42d58802fe231b14c8692b0c06082f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Coffin H.prefab using Guid(42d58802fe231b14c8692b0c06082f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6ff92d57ba232d2bb89b27b77b01d5') in 0.024397 seconds
-  Import took 0.033660 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000681 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Coffin V.prefab
-  artifactKey: Guid(e54d3c80cde4e314eae0912eca6a93ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Coffin V.prefab using Guid(e54d3c80cde4e314eae0912eca6a93ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b96c0d58d33c7633b4090f93a3c333') in 0.027955 seconds
-  Import took 0.036836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000616 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot A.prefab
-  artifactKey: Guid(ac719b1d0f58391469cc19fd947ca44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot A.prefab using Guid(ac719b1d0f58391469cc19fd947ca44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28831298fcbdb8e434fe424beab6520d') in 0.026801 seconds
-  Import took 0.037124 seconds .
+  Time since last request: 5.264230 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters
+  artifactKey: Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters using Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae2e603840b53d8f9b9f56583cc01b5') in 0.018295 seconds
+  Import took 0.024655 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000691 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone B.prefab
-  artifactKey: Guid(6242b925f1d3e0d44a183102cd3d4c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone B.prefab using Guid(6242b925f1d3e0d44a183102cd3d4c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec119c75328f7354efb699cdc4ef1d99') in 0.022434 seconds
-  Import took 0.032181 seconds .
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters
+  artifactKey: Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters using Guid(3f7ca6af6f2b39d47a082da26b2aca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae2e603840b53d8f9b9f56583cc01b5') in 0.005312 seconds
+  Import took 0.011897 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001046 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Statue.prefab
-  artifactKey: Guid(d730038d263986f4dac93230e1dd62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Statue.prefab using Guid(d730038d263986f4dac93230e1dd62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0c27262630d0ffe8101d18e0cddc38') in 0.022577 seconds
-  Import took 0.031850 seconds .
+  Time since last request: 134.082774 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer
+  artifactKey: Guid(3c02c21ff299f4e108badd034e2f0e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Archer using Guid(3c02c21ff299f4e108badd034e2f0e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff3a83e5a44946837eb77bb064297bd') in 0.015809 seconds
+  Import took 0.022503 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000905 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Cube.prefab
-  artifactKey: Guid(f6a5710827e32d3489da2c249e3bc400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Cube.prefab using Guid(f6a5710827e32d3489da2c249e3bc400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17247306aa58174a535d2005b0448fc') in 0.028884 seconds
-  Import took 0.037946 seconds .
+  Time since last request: 2.336421 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief
+  artifactKey: Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Thief using Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85ab802c09769b706f4aaf3bb97a7ff') in 0.015847 seconds
+  Import took 0.021609 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000568 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T1.prefab
-  artifactKey: Guid(ebdc6ef285e0bf542bed7e9c1bfb9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T1.prefab using Guid(ebdc6ef285e0bf542bed7e9c1bfb9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b885b42d427437c263cc60cbac2a51c9') in 0.023339 seconds
-  Import took 0.032562 seconds .
+  Time since last request: 0.001684 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief
+  artifactKey: Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Thief using Guid(35a53276af7734336b8509ba9361a9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85ab802c09769b706f4aaf3bb97a7ff') in 0.005066 seconds
+  Import took 0.012634 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000539 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair R.prefab
-  artifactKey: Guid(df420ddd0ffda274cba2d4807d8987bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair R.prefab using Guid(df420ddd0ffda274cba2d4807d8987bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bc571725f6ff621735fda6a53d858b') in 0.019925 seconds
-  Import took 0.028337 seconds .
+  Time since last request: 1.409455 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Idle.anim
+  artifactKey: Guid(c559fce4f820d4c6887c295d0fac2935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Idle.anim using Guid(c559fce4f820d4c6887c295d0fac2935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8ff4aad5a8f904119434094846d864') in 0.016978 seconds
+  Import took 0.022469 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000657 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Crate.prefab
-  artifactKey: Guid(fb2df5b680b64b449a78162ebcd98e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Crate.prefab using Guid(fb2df5b680b64b449a78162ebcd98e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd718851bc8723bf1851f1bc591dd5fd8') in 0.030012 seconds
-  Import took 0.038455 seconds .
+  Time since last request: 656.477296 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/detective/New Animation.anim
+  artifactKey: Guid(5ed342962123eec478808d9530546f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/detective/New Animation.anim using Guid(5ed342962123eec478808d9530546f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d929309465a5871ad6cb2c3569e4bc9') in 0.017210 seconds
+  Import took 0.023905 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000658 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar Broken.prefab
-  artifactKey: Guid(8728cc48d2747494893fd60426c06f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar Broken.prefab using Guid(8728cc48d2747494893fd60426c06f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a71f8e672a146a0049f32e7cb47cd0b') in 0.032147 seconds
-  Import took 0.042438 seconds .
+  Time since last request: 8.853171 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Character.prefab
+  artifactKey: Guid(84535a21e4ab6412690b5fa8acc3908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Character.prefab using Guid(84535a21e4ab6412690b5fa8acc3908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e380f3357850a80d7e5a7303e283fc') in 0.110795 seconds
+  Import took 0.117905 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000700 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench W.prefab
-  artifactKey: Guid(8eb546cfc24c8c24196899cee5797135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone Bench W.prefab using Guid(8eb546cfc24c8c24196899cee5797135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1d7303bf1c3a816a5e0d8cc01b90a5') in 0.025747 seconds
-  Import took 0.035822 seconds .
+  Time since last request: 0.000888 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/UI Camera.prefab
+  artifactKey: Guid(fb58dc84dca7b49f99bde3835c80609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/UI Camera.prefab using Guid(fb58dc84dca7b49f99bde3835c80609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d95e84cbabab2da0c08c398cc991db0') in 0.023017 seconds
+  Import took 0.028700 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000624 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair M.prefab
-  artifactKey: Guid(78e9efbdf9b33994da8dfbe530f65e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stair M.prefab using Guid(78e9efbdf9b33994da8dfbe530f65e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6a403b0fef40d074668316945e5657') in 0.023328 seconds
-  Import took 0.033414 seconds .
+  Time since last request: 0.000826 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/MessageBar.prefab
+  artifactKey: Guid(81816288a86af46c598e1fa3b10e24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/MessageBar.prefab using Guid(81816288a86af46c598e1fa3b10e24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da13908eb93a16e8e3490e3ad91a8992') in 0.123381 seconds
+  Import took 0.131348 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000519 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone C.prefab
-  artifactKey: Guid(3fcd8726c7cd53345947949baefbab35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone C.prefab using Guid(3fcd8726c7cd53345947949baefbab35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba1e61886d8811b2a1a0dea92cadb37') in 0.023683 seconds
-  Import took 0.033050 seconds .
+  Time since last request: 0.000376 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Main Camera.prefab
+  artifactKey: Guid(1c14ebde4b5e54881a67b686f46e6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Main Camera.prefab using Guid(1c14ebde4b5e54881a67b686f46e6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0b74aae223ad12274194ba2b73c6fa') in 0.018037 seconds
+  Import took 0.023358 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000647 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Altar.prefab
-  artifactKey: Guid(c5bdca1933fde624698bb8c6d6daa44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Altar.prefab using Guid(c5bdca1933fde624698bb8c6d6daa44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a1b530a2c4135d3a39cecde4f8300d') in 0.031016 seconds
-  Import took 0.038172 seconds .
+  Time since last request: 0.000666 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Tilemaps.prefab
+  artifactKey: Guid(a6ecdc63374074e6eb42a738a5683a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Tilemaps.prefab using Guid(a6ecdc63374074e6eb42a738a5683a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d9d3f2f37a088afa5dbf56f2e82189') in 0.020441 seconds
+  Import took 0.027377 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000600 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot B.prefab
-  artifactKey: Guid(63ee4b6a40c55fd429759b807832ded1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Pot B.prefab using Guid(63ee4b6a40c55fd429759b807832ded1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055c0242186fcc1b4a996e7a15cbd129') in 0.025335 seconds
-  Import took 0.034887 seconds .
+  Time since last request: 0.000394 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Grid.prefab
+  artifactKey: Guid(9cfc23e1a92d54df288065697ba3e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Grid.prefab using Guid(9cfc23e1a92d54df288065697ba3e2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baeb0db4d1447fba733628c0e1a966d3') in 0.021028 seconds
+  Import took 0.031017 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000755 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T3.prefab
-  artifactKey: Guid(92a9322ee3bba184f91fbebe53b69bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Brick T3.prefab using Guid(92a9322ee3bba184f91fbebe53b69bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ed9bb34ad62324b3174bc9f11b7f14') in 0.022653 seconds
-  Import took 0.031442 seconds .
+  Time since last request: 0.000703 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Controllers.prefab
+  artifactKey: Guid(d96c0846c7d644f72bfbf301de1def5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Controllers.prefab using Guid(d96c0846c7d644f72bfbf301de1def5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8142054a13eab01e0cd04617d64ddf24') in 0.061161 seconds
+  Import took 0.069091 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000792 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Road Sign W.prefab
-  artifactKey: Guid(5c635e5bc09c93043a53ee0e17e89d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Road Sign W.prefab using Guid(5c635e5bc09c93043a53ee0e17e89d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054fd59833e3a51e9e0a617d4c9490e1') in 0.023381 seconds
-  Import took 0.033075 seconds .
+  Time since last request: 0.000652 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/DialogController.prefab
+  artifactKey: Guid(ab3f7178010354d87a5016c7d6b23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/DialogController.prefab using Guid(ab3f7178010354d87a5016c7d6b23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f42db0cd962b9b958e0bb0d387daa3') in 0.072308 seconds
+  Import took 0.077604 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000789 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T3.prefab
-  artifactKey: Guid(ba7fef4c928d8c4459466bf93171730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T3.prefab using Guid(ba7fef4c928d8c4459466bf93171730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de72a38f0db52985e32ef93144b77435') in 0.022190 seconds
-  Import took 0.030739 seconds .
+  Time since last request: 0.000524 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/HouseOpenDoor.prefab
+  artifactKey: Guid(8d9e5ee92a6bccc4892e3ebb23cc4766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/HouseOpenDoor.prefab using Guid(8d9e5ee92a6bccc4892e3ebb23cc4766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09cab2d6d8d58f9e76483906a75b430') in 0.049211 seconds
+  Import took 0.058464 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000617 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone A.prefab
-  artifactKey: Guid(6d9a1504606c57143b1a8bbc2249aabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Gravestone A.prefab using Guid(6d9a1504606c57143b1a8bbc2249aabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7500949686ba39d89025e693d9b1c7') in 0.026132 seconds
-  Import took 0.034954 seconds .
+  Time since last request: 0.000252 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/Inventory.prefab
+  artifactKey: Guid(7c53998562858411aa85d8e0c4bc1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/Inventory.prefab using Guid(7c53998562858411aa85d8e0c4bc1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f5786f1f8059d2fb4de3c1b72eb17fd') in 0.065572 seconds
+  Import took 0.070877 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000675 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar X3.prefab
-  artifactKey: Guid(4fad9c4de6b725a43bb1200ed9479c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Rune Pillar X3.prefab using Guid(4fad9c4de6b725a43bb1200ed9479c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad90ca5744890ae0348a49647230a83') in 0.021280 seconds
-  Import took 0.028364 seconds .
+  Time since last request: 0.000249 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/InventoryDialog.prefab
+  artifactKey: Guid(9c7cbb01d716340ab97a9c902e59ccee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/InventoryDialog.prefab using Guid(9c7cbb01d716340ab97a9c902e59ccee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f277cb88d1b23e5b00a59a1fc606b8b') in 0.072879 seconds
+  Import took 0.078780 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.279788 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T4.prefab
-  artifactKey: Guid(4c4e80b50a323dc478f7c84e0b8fdad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T4.prefab using Guid(4c4e80b50a323dc478f7c84e0b8fdad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfbe974cbff7e1b637052b863562f9a') in 0.019478 seconds
-  Import took 0.025175 seconds .
+  Time since last request: 0.000297 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/HouseRoof.prefab
+  artifactKey: Guid(4ca9604554bc54f608984cba5088222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/HouseRoof.prefab using Guid(4ca9604554bc54f608984cba5088222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fc8943df772403077253b9bd5b715e') in 0.038249 seconds
+  Import took 0.043900 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000548 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Wooden Gate Opened.prefab
-  artifactKey: Guid(8e9c401d7a70ec94d956296ea011f594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Wooden Gate Opened.prefab using Guid(8e9c401d7a70ec94d956296ea011f594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ce28083a828ce0778d4df655892153') in 0.017561 seconds
-  Import took 0.024161 seconds .
+  Time since last request: 0.000414 seconds.
+  path: Assets/Creator Kit - RPG/Prefabs/HouseChimney.prefab
+  artifactKey: Guid(4d6bc847403394c328ca695ffeb4a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Prefabs/HouseChimney.prefab using Guid(4d6bc847403394c328ca695ffeb4a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52050fc9d5c39bbf12be2656427cf656') in 0.042329 seconds
+  Import took 0.048221 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000555 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T6.prefab
-  artifactKey: Guid(d5762f992ea3bd544bb8287f66e8f844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T6.prefab using Guid(d5762f992ea3bd544bb8287f66e8f844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9209c5e2dcacd1fdf3d9a971ae84c3') in 0.021359 seconds
-  Import took 0.030782 seconds .
+  Time since last request: 248.251036 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/detective/Detective_Idle.anim
+  artifactKey: Guid(1a07592857164944cbf731abf31be13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/detective/Detective_Idle.anim using Guid(1a07592857164944cbf731abf31be13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8daa095a7c0f86739de6a669000d1e0') in 0.014079 seconds
+  Import took 0.019995 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000744 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Wooden Gate.prefab
-  artifactKey: Guid(6a057178eb028e94fb93bf39262ea3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Wooden Gate.prefab using Guid(6a057178eb028e94fb93bf39262ea3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c2867e74c42c0a0b94bf851a4f7115') in 0.023201 seconds
-  Import took 0.030976 seconds .
+  Time since last request: 80.841886 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Character.controller
+  artifactKey: Guid(3978bface3e374a91b3f9ff70d5eabe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Character.controller using Guid(3978bface3e374a91b3f9ff70d5eabe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c7540818923868590a70c8d6ffdb37') in 0.020675 seconds
+  Import took 0.027465 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000598 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T7.prefab
-  artifactKey: Guid(f826bf48ad5bedc4ab6cabe6c4e498e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T7.prefab using Guid(f826bf48ad5bedc4ab6cabe6c4e498e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45dfbdc86ec744eb6b87c8a8c6aabd53') in 0.021501 seconds
-  Import took 0.028876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000569 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Well.prefab
-  artifactKey: Guid(91afc0649ae41a64c860a5d49f05ff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Well.prefab using Guid(91afc0649ae41a64c860a5d49f05ff40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca25c6aac9030e1e6d809da29f071960') in 0.020541 seconds
-  Import took 0.027290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000548 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T5.prefab
-  artifactKey: Guid(139b2d65b3145ad45bc13b6d111199de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props Stone T5.prefab using Guid(139b2d65b3145ad45bc13b6d111199de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48fddfbe47bd51fafb69d09a7a97438f') in 0.023096 seconds
-  Import took 0.029415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.714888 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Flower.prefab
-  artifactKey: Guid(c6d86ec8825b7674a9736d1cb0cd98a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Flower.prefab using Guid(c6d86ec8825b7674a9736d1cb0cd98a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b3a835a56fd257903d63900e9ee475') in 0.019433 seconds
-  Import took 0.024442 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000429 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass I.prefab
-  artifactKey: Guid(424ccba55881d2743a04e1f1a4947e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass I.prefab using Guid(424ccba55881d2743a04e1f1a4947e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3379ee49590ca330a3bfadd29e3766ca') in 0.016015 seconds
-  Import took 0.021731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000489 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass D.prefab
-  artifactKey: Guid(fd980c817c63af4458df40a61e529e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass D.prefab using Guid(fd980c817c63af4458df40a61e529e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e51f5a1349b4ad74b245a7dcb3e1fd') in 0.016255 seconds
-  Import took 0.021770 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000618 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass O.prefab
-  artifactKey: Guid(bf462882706828c44a4465986b6fb8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass O.prefab using Guid(bf462882706828c44a4465986b6fb8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2671f6a2f0d15e6d55d59e3e4fb2c411') in 0.015462 seconds
-  Import took 0.021983 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000522 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass E.prefab
-  artifactKey: Guid(019ab1af1d7a4b742a982c009534c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass E.prefab using Guid(019ab1af1d7a4b742a982c009534c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302de8cd9abdae479ca3bee7a3e9ce06') in 0.014812 seconds
-  Import took 0.020045 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000518 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass F.prefab
-  artifactKey: Guid(84d669757910f1f488023c92e71fcad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass F.prefab using Guid(84d669757910f1f488023c92e71fcad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ea9c159ededad79beaa3bf33ca109f') in 0.016841 seconds
-  Import took 0.023351 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001175 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T2.prefab
-  artifactKey: Guid(7277dd75e907b27448ec1de08238d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T2.prefab using Guid(7277dd75e907b27448ec1de08238d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374fe1964d5b73f22568e62d543034c5') in 0.039485 seconds
-  Import took 0.048760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000645 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass G.prefab
-  artifactKey: Guid(8d15c39fd3e3cab47ab96fbaf6dc2f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass G.prefab using Guid(8d15c39fd3e3cab47ab96fbaf6dc2f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23df00202748a4e5c29aa1b5ba542ad') in 0.033989 seconds
-  Import took 0.040843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000595 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass J.prefab
-  artifactKey: Guid(dbeab85cbe3b90b41a444794aab794ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass J.prefab using Guid(dbeab85cbe3b90b41a444794aab794ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4825e657fc7723f8c085a526ef99d32b') in 0.018181 seconds
-  Import took 0.026514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000547 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass M.prefab
-  artifactKey: Guid(c5c395a83c3338d46bd52e936cf46245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass M.prefab using Guid(c5c395a83c3338d46bd52e936cf46245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc106509ea93a8dd77e37a31aaaa1100') in 0.032176 seconds
-  Import took 0.040829 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000485 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T1.prefab
-  artifactKey: Guid(a0a71fda412ad0941ab44f1732ea4c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T1.prefab using Guid(a0a71fda412ad0941ab44f1732ea4c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdec3e7ebd5293c755628429af1c7d5c') in 0.022563 seconds
-  Import took 0.030665 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000535 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T5.prefab
-  artifactKey: Guid(9fb66d8c9d3b5194a82e9eed65a54afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T5.prefab using Guid(9fb66d8c9d3b5194a82e9eed65a54afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07de3524f3033bbb7957e8fe28449a8') in 0.022600 seconds
-  Import took 0.029011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000459 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass C.prefab
-  artifactKey: Guid(403080d7568a4f949b4bfc7128477a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass C.prefab using Guid(403080d7568a4f949b4bfc7128477a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17eb1ffda7e12b3734dad2c6d6f84c14') in 0.018749 seconds
-  Import took 0.025743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000591 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass N.prefab
-  artifactKey: Guid(af67ceadc087899479232f75d2b79d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass N.prefab using Guid(af67ceadc087899479232f75d2b79d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4c7c7a27d2d7bfe650689beecc26cd') in 0.021193 seconds
-  Import took 0.029067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000523 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T6.prefab
-  artifactKey: Guid(39562e88b536753438a3153c5fbdf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T6.prefab using Guid(39562e88b536753438a3153c5fbdf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eaa6ed84fec5e124401e81c5b5b1f05') in 0.023842 seconds
-  Import took 0.032677 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000665 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass H.prefab
-  artifactKey: Guid(8c66149e58003104daf96668db118b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass H.prefab using Guid(8c66149e58003104daf96668db118b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0dbbbaf2694902537f00730f192fa3') in 0.016443 seconds
-  Import took 0.024713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000508 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T3.prefab
-  artifactKey: Guid(0505844a909d2ea4996c19b67b2a40b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T3.prefab using Guid(0505844a909d2ea4996c19b67b2a40b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61257c6f4161be6c668eb1c6feefc611') in 0.021197 seconds
-  Import took 0.030064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000854 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass L.prefab
-  artifactKey: Guid(1dc4948f20ddc324f84c815af63aa6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass L.prefab using Guid(1dc4948f20ddc324f84c815af63aa6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f0d835307d67fac12de6ebcd0076c7') in 0.019604 seconds
-  Import took 0.026526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000558 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T3.prefab
-  artifactKey: Guid(9e7797bb065982d4497d030f065d6e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T3.prefab using Guid(9e7797bb065982d4497d030f065d6e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd592e77b2b377a22809fe460d5c5027') in 0.025421 seconds
-  Import took 0.033334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000604 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass A.prefab
-  artifactKey: Guid(a0a66c9b152e801409fc26c4ca493d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass A.prefab using Guid(a0a66c9b152e801409fc26c4ca493d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256f81f08e0a3a4e57775fac7a5e77c3') in 0.017669 seconds
-  Import took 0.027505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000535 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T4.prefab
-  artifactKey: Guid(4bd7b41600416b54395bf9936a05dc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T4.prefab using Guid(4bd7b41600416b54395bf9936a05dc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2965a6eaef8688439c488ce78b2e5003') in 0.026444 seconds
-  Import took 0.034697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000541 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T1.prefab
-  artifactKey: Guid(f681a54372d73d74785b9c9d4ac477e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Tree T1.prefab using Guid(f681a54372d73d74785b9c9d4ac477e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c830f064f952879060be43d07be85a77') in 0.027727 seconds
-  Import took 0.034048 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000512 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T2.prefab
-  artifactKey: Guid(5b94bf9107369684a8153921f763da38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Props Bush T2.prefab using Guid(5b94bf9107369684a8153921f763da38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3efc1abb9eae79c01334e5db1e3a50') in 0.026109 seconds
-  Import took 0.033601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000616 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass B.prefab
-  artifactKey: Guid(2d546d2d8b016864ab41e2185c250eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass B.prefab using Guid(2d546d2d8b016864ab41e2185c250eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a13b920e528df44b06f031b566cf98') in 0.020761 seconds
-  Import took 0.029725 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000523 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass K.prefab
-  artifactKey: Guid(4800845c2c4caa84eb6194552ae9c841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Grass K.prefab using Guid(4800845c2c4caa84eb6194552ae9c841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9b3b067ae81d07ea936e973bb1a410') in 0.023173 seconds
-  Import took 0.032569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.973974 seconds.
-  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/Trees.prefab
-  artifactKey: Guid(54b283d6fff82d04bb059a819caac1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/Trees.prefab using Guid(54b283d6fff82d04bb059a819caac1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094edc13b53e2380f149bc7e8df54d69') in 0.008557 seconds
-  Import took 0.014151 seconds .
+  Time since last request: 0.002898 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Character.controller
+  artifactKey: Guid(3978bface3e374a91b3f9ff70d5eabe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Character.controller using Guid(3978bface3e374a91b3f9ff70d5eabe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c7540818923868590a70c8d6ffdb37') in 0.013462 seconds
+  Import took 0.020922 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008986 seconds.
+Registered in 0.005129 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.554 seconds
+- Completed reload, in  1.376 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2056.
+Total: 3.750300 ms (FindLiveObjects: 0.396400 ms CreateObjectMapping: 0.096700 ms MarkObjects: 3.104800 ms  DeleteObjects: 0.149800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.1 MB.
-System memory in use after: 74.2 MB.
+System memory in use before: 74.8 MB.
+System memory in use after: 74.9 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1926.
-Total: 3.719000 ms (FindLiveObjects: 0.234000 ms CreateObjectMapping: 0.074300 ms MarkObjects: 3.361600 ms  DeleteObjects: 0.046500 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2059.
+Total: 6.916700 ms (FindLiveObjects: 0.515900 ms CreateObjectMapping: 0.269800 ms MarkObjects: 6.000300 ms  DeleteObjects: 0.126900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 356.502617 seconds.
+  path: Assets/Scenes/Cathy'sHouse.unity
+  artifactKey: Guid(8271b7c25e93d4545bb63178b20c4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Cathy'sHouse.unity using Guid(8271b7c25e93d4545bb63178b20c4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4f53db1417bb6074d5aba8e7390621') in 0.029056 seconds
+  Import took 0.034635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.640946 seconds.
+  path: Assets/Scenes/DetectiveHouse.unity
+  artifactKey: Guid(a0ee7ef8e8eb63e41893b7a1bb2c17bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DetectiveHouse.unity using Guid(a0ee7ef8e8eb63e41893b7a1bb2c17bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd94881544c4935a788a544cb38523b') in 0.015830 seconds
+  Import took 0.025648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.955851 seconds.
+  path: Assets/Scenes/FinalProject.unity
+  artifactKey: Guid(6f7f323fbafea47d6b437a00d0d10d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FinalProject.unity using Guid(6f7f323fbafea47d6b437a00d0d10d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbf04d6675964d6847ec8cfaed81dcd') in 0.017316 seconds
+  Import took 0.022402 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008326 seconds.
+Registered in 0.004762 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.583 seconds
+- Completed reload, in  1.368 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.1 MB.
-System memory in use after: 74.2 MB.
+System memory in use before: 74.8 MB.
+System memory in use after: 74.9 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1929.
-Total: 3.051500 ms (FindLiveObjects: 0.353200 ms CreateObjectMapping: 0.142200 ms MarkObjects: 2.514300 ms  DeleteObjects: 0.039900 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2062.
+Total: 4.451100 ms (FindLiveObjects: 0.879900 ms CreateObjectMapping: 0.180800 ms MarkObjects: 3.308000 ms  DeleteObjects: 0.061200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.690962 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Villager01.controller
+  artifactKey: Guid(8df5494207a769846b30b4825024028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Villager01.controller using Guid(8df5494207a769846b30b4825024028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e24b38cab05308b4c0ef43f12baee3b') in 0.035698 seconds
+  Import took 0.041635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.868577 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators
+  artifactKey: Guid(e91017a42a68ffa4f85315b8a7c88a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators using Guid(e91017a42a68ffa4f85315b8a7c88a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0182d3c06749d082aaf57945c26a82') in 0.017915 seconds
+  Import took 0.022791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002442 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators
+  artifactKey: Guid(e91017a42a68ffa4f85315b8a7c88a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators using Guid(e91017a42a68ffa4f85315b8a7c88a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0182d3c06749d082aaf57945c26a82') in 0.003753 seconds
+  Import took 0.009746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.979029 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Patricia.controller
+  artifactKey: Guid(e85e9f3450c8e6d4b810596b648e7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Patricia.controller using Guid(e85e9f3450c8e6d4b810596b648e7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089be69b9576e6fd986b1089a510f259') in 0.016993 seconds
+  Import took 0.022994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.548173 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController
+  artifactKey: Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController using Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeeb94a68aafa7699bed13289af6b8a1') in 0.012947 seconds
+  Import took 0.018183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002263 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController
+  artifactKey: Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController using Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeeb94a68aafa7699bed13289af6b8a1') in 0.006091 seconds
+  Import took 0.011007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.950889 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters
+  artifactKey: Guid(5490aae0fc63c984a9bfc47d6805bc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters using Guid(5490aae0fc63c984a9bfc47d6805bc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e80dea1335dafab4bac2f48a9253fd') in 0.012722 seconds
+  Import took 0.018686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.450614 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Patricia
+  artifactKey: Guid(2a6704bfcee31df429d9f25c6b7964a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Patricia using Guid(2a6704bfcee31df429d9f25c6b7964a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c9836cf713b5488fb237e39137d8e1') in 0.008039 seconds
+  Import took 0.013439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.426458 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel
+  artifactKey: Guid(45e8f227bf2c03b4693764df9bd33e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel using Guid(45e8f227bf2c03b4693764df9bd33e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d944be99fa6354e7e79d144b6179c5') in 0.015723 seconds
+  Import took 0.020532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.510101 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Bray
+  artifactKey: Guid(e399dbaebe58513418b81419cb37218b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Bray using Guid(e399dbaebe58513418b81419cb37218b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f909f4bd12eb964e2625ecfc9807f3') in 0.015649 seconds
+  Import took 0.022596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.369440 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Emma
+  artifactKey: Guid(e0ab7cf0ff5bf5940b753a73605655eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Emma using Guid(e0ab7cf0ff5bf5940b753a73605655eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05ec8a303e8066d442c5c4353460ec6') in 0.012020 seconds
+  Import took 0.017619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.087546 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png
+  artifactKey: Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/detective.png using Guid(57ebe47bc7fbb2045aafc0ca0552784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b142e7e6ad776007703fcb88767e8fd') in 0.421933 seconds
+  Import took 0.429724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.777926 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png
+  artifactKey: Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png using Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adaf56a26b30d6bf731427f9766cfc54') in 0.040874 seconds
+  Import took 0.045306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005588 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png
+  artifactKey: Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png using Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adaf56a26b30d6bf731427f9766cfc54') in 0.039629 seconds
+  Import took 0.046614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.757745 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png
+  artifactKey: Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png using Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f79237a0edc7fc42c2ca853487f675c') in 0.042983 seconds
+  Import took 0.048922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.154311 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/bray 1.png
+  artifactKey: Guid(70a8076a671d40a4bae921d930aa423e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/bray 1.png using Guid(70a8076a671d40a4bae921d930aa423e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d6e672aca0f270f0360cde6d3906c2') in 0.044825 seconds
+  Import took 0.051609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png
+  artifactKey: Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png using Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d726041a585ead78bdf68368aa523ee') in 0.022958 seconds
+  Import took 0.028726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png
+  artifactKey: Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png using Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae58368f1f1ef6fce9a83e7acd92068') in 0.031605 seconds
+  Import took 0.035661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.767478 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel 1.png
+  artifactKey: Guid(8294010bdd7f3e14c93ba06031c4757b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel 1.png using Guid(8294010bdd7f3e14c93ba06031c4757b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfc85a9e2658f2a7ed426a93dda7847') in 0.043786 seconds
+  Import took 0.050728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025194 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel 1.png
+  artifactKey: Guid(8294010bdd7f3e14c93ba06031c4757b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel 1.png using Guid(8294010bdd7f3e14c93ba06031c4757b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfc85a9e2658f2a7ed426a93dda7847') in 0.032807 seconds
+  Import took 0.038656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.282804 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png
+  artifactKey: Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png using Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4284ff07fdfe697e56cbffbda76f468e') in 0.034718 seconds
+  Import took 0.039844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png
+  artifactKey: Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png using Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f476d90f1171322a5629d036496228') in 0.035278 seconds
+  Import took 0.041618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png
+  artifactKey: Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png using Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ade529cd904f571b1940a53ef61be1') in 0.069720 seconds
+  Import took 0.075648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png
+  artifactKey: Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png using Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d60e9c092abf43161f50d600d31e19') in 0.021543 seconds
+  Import took 0.027377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.735739 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png
+  artifactKey: Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/mayoremma.png using Guid(3f70bad50b4e4754a8bbcc4fd6c3e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91df3b9726c35766af69411a0bc4326') in 0.282100 seconds
+  Import took 0.286643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.646741 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png
+  artifactKey: Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/pabel.png using Guid(7691c9df21615364890140735587a458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1933640867acacbd902591fb3f319202') in 0.447137 seconds
+  Import took 0.452866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.844347 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png
+  artifactKey: Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/patricia.png using Guid(ba028f6954043e04a871878877a3db10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0af06322731ac4d3b3c5f5af20fca1b') in 0.295549 seconds
+  Import took 0.302180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.095506 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png
+  artifactKey: Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Characters/bray.png using Guid(da0c02771d34157439237d11702d316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1210f28dcaee02a2ea749a30d02cbfc9') in 0.360421 seconds
+  Import took 0.365162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.873152 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController
+  artifactKey: Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController using Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5575130fb5ddcab32e8c2a2647f9940a') in 0.017047 seconds
+  Import took 0.021266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010632 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController
+  artifactKey: Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController using Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5575130fb5ddcab32e8c2a2647f9940a') in 0.006594 seconds
+  Import took 0.014214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.807443 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController
+  artifactKey: Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController using Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b3d866eb673633b462f9e65c6d311c') in 0.005198 seconds
+  Import took 0.014200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010556 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController
+  artifactKey: Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController using Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b3d866eb673633b462f9e65c6d311c') in 0.006679 seconds
+  Import took 0.011043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.610939 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/emma.overrideController
+  artifactKey: Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/emma.overrideController using Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568a637a1d310b531c70d2dfe861598a') in 0.016118 seconds
+  Import took 0.021398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003178 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/emma.overrideController
+  artifactKey: Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/emma.overrideController using Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568a637a1d310b531c70d2dfe861598a') in 0.006343 seconds
+  Import took 0.011711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.131222 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Leaves.controller
+  artifactKey: Guid(52ba45bbfd71c7e4192a2974be4ca3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Leaves.controller using Guid(52ba45bbfd71c7e4192a2974be4ca3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154bcec539320906d2e7ee16dab8890e') in 0.017082 seconds
+  Import took 0.023901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.460814 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Bray/Bray_idle.anim
+  artifactKey: Guid(6e04e6e966e1b5144862713f653dda08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Bray/Bray_idle.anim using Guid(6e04e6e966e1b5144862713f653dda08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004d9abc30598b65061cca68976ccb84') in 0.016644 seconds
+  Import took 0.023224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.523115 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Emma/Emma_idle.anim
+  artifactKey: Guid(4d02791260e89644a866bb593e191549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Emma/Emma_idle.anim using Guid(4d02791260e89644a866bb593e191549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca7007491f5cee4f3dc051a8c06fe6d') in 0.016182 seconds
+  Import took 0.021593 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008708 seconds.
+Registered in 0.005940 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.468 seconds
+- Completed reload, in  1.372 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.1 MB.
-System memory in use after: 74.2 MB.
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1932.
-Total: 2.890300 ms (FindLiveObjects: 0.259100 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.518700 ms  DeleteObjects: 0.032700 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2154.
+Total: 5.738200 ms (FindLiveObjects: 1.358000 ms CreateObjectMapping: 0.560400 ms MarkObjects: 3.780900 ms  DeleteObjects: 0.034300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.016936 seconds.
+Registered in 0.007083 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.53 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.231 seconds
+- Completed reload, in  1.420 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.1 MB.
-System memory in use after: 74.2 MB.
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1935.
-Total: 3.295700 ms (FindLiveObjects: 0.300400 ms CreateObjectMapping: 0.135000 ms MarkObjects: 2.821800 ms  DeleteObjects: 0.036100 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2157.
+Total: 3.252900 ms (FindLiveObjects: 0.409200 ms CreateObjectMapping: 0.111000 ms MarkObjects: 2.693900 ms  DeleteObjects: 0.036600 ms)
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004633 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.636 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 3.031300 ms (FindLiveObjects: 0.380800 ms CreateObjectMapping: 0.137900 ms MarkObjects: 2.467000 ms  DeleteObjects: 0.043100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005457 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2163.
+Total: 4.551700 ms (FindLiveObjects: 0.551600 ms CreateObjectMapping: 0.167000 ms MarkObjects: 3.802900 ms  DeleteObjects: 0.028100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 526.614374 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Patricia/Patricia_idle.anim
+  artifactKey: Guid(b16b678c8b51514458760dfe6300e46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Patricia/Patricia_idle.anim using Guid(b16b678c8b51514458760dfe6300e46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a4241faa8c900b403ce586e252bd80') in 0.019495 seconds
+  Import took 0.023412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.854441 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel/Pable_Idle.anim
+  artifactKey: Guid(f59cb8fe1f258584780aa1b4f0ec9971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel/Pable_Idle.anim using Guid(f59cb8fe1f258584780aa1b4f0ec9971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69fc8945e4978560c5ddc7d7301a2d6a') in 0.014483 seconds
+  Import took 0.020236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007831 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel/Pable_Idle.anim
+  artifactKey: Guid(f59cb8fe1f258584780aa1b4f0ec9971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animations/Characters/Pabel/Pable_Idle.anim using Guid(f59cb8fe1f258584780aa1b4f0ec9971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69fc8945e4978560c5ddc7d7301a2d6a') in 0.006985 seconds
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.633847 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController
+  artifactKey: Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Bray.overrideController using Guid(286ed9cea2cea364094b1d7f177ce5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6109850ed580b01a6b105408f6477f') in 0.010566 seconds
+  Import took 0.015948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController
+  artifactKey: Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Patricia.overrideController using Guid(889e92ea79d42e04b9e49d4a746e49a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8042d14524ed12b946be689f490399') in 0.004097 seconds
+  Import took 0.009625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/emma.overrideController
+  artifactKey: Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/emma.overrideController using Guid(f52cebfff9d9ef248a7628479f4be437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf753655049bb2b75ea00e3e4aabd126') in 0.006311 seconds
+  Import took 0.011029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController
+  artifactKey: Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Pable.overrideController using Guid(15a1e181b370805408e30851cc32e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d301440930b386656e3b557d5afe955') in 0.006334 seconds
+  Import took 0.013646 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.364 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2166.
+Total: 3.702900 ms (FindLiveObjects: 0.450900 ms CreateObjectMapping: 0.139800 ms MarkObjects: 3.056000 ms  DeleteObjects: 0.053300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.328 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2169.
+Total: 3.811000 ms (FindLiveObjects: 0.852100 ms CreateObjectMapping: 0.374500 ms MarkObjects: 2.548600 ms  DeleteObjects: 0.031700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.354 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2172.
+Total: 5.070300 ms (FindLiveObjects: 0.872900 ms CreateObjectMapping: 0.181600 ms MarkObjects: 3.976400 ms  DeleteObjects: 0.036300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2175.
+Total: 3.972400 ms (FindLiveObjects: 0.537600 ms CreateObjectMapping: 0.180600 ms MarkObjects: 3.222500 ms  DeleteObjects: 0.029300 ms)
+

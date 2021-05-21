@@ -17,7 +17,7 @@ namespace RPGM.Gameplay
         public Vector3 nextMoveCommand;
         public Animator animator;
         public bool flipX = false;
-        public VectorValue startingPosition;
+        public VectorValue StartingPosition;
 
         new Rigidbody2D rigidbody2D;
         SpriteRenderer spriteRenderer;
@@ -92,7 +92,7 @@ namespace RPGM.Gameplay
             rigidbody2D = GetComponent<Rigidbody2D>();
             spriteRenderer = GetComponent<SpriteRenderer>();
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
-            transform.position = startingPosition.initialValue;
+            transform.position = StartingPosition.InitialValue;
         }
     }
 }
