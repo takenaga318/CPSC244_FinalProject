@@ -59529,8 +59529,6 @@ MonoBehaviour:
   destroySpawnsOnQuestComplete: 1
   introCutscenePrefab: {fileID: 0}
   outroCutscenePrefab: {fileID: 0}
-  isStarted: 0
-  isFinished: 0
 --- !u!4 &386375057 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5844055335241695353, guid: c14338f3a43e548bd89e6e11c7bcb803,
@@ -61914,6 +61912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 'Story: What does Harry have to say a...'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5844055335241695357, guid: c14338f3a43e548bd89e6e11c7bcb803,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5844055335241695358, guid: c14338f3a43e548bd89e6e11c7bcb803,
         type: 3}

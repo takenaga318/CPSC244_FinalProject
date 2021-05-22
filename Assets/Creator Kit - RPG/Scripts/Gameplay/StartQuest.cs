@@ -14,9 +14,9 @@ namespace RPGM.Events
 
         public override void Execute()
         {
-            if (!quest.isStarted)
+            if (!Quest.isStarted)
             {
-                quest.isStarted = true;
+                Quest.isStarted = true;
                 quest.OnStartQuest();
                 npc.StartQuest(quest);
             }

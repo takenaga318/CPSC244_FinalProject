@@ -31,13 +31,13 @@ namespace RPGM.Events
             //if this item contains an unstarted quest, schedule a start quest event for the quest.
             if (ci.quest != null)
             {
-                if (!ci.quest.isStarted)
+                if (!Quest.isStarted)
                 {
                     var ev = Schedule.Add<StartQuest>(1);
                     ev.quest = ci.quest;
                     ev.npc = npc;
                 }
-                if (ci.quest.isFinished && ci.quest.questCompletedConversation != null)
+                if (Quest.isFinished && ci.quest.questCompletedConversation != null)
                 {
                     ci = ci.quest.questCompletedConversation.items[0];
                 }
