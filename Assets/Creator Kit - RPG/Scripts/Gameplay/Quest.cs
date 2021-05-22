@@ -42,8 +42,8 @@ namespace RPGM.Gameplay
 
         List<GameObject> cleanup = new List<GameObject>();
 
-        public static bool isStarted = false;
-        public static bool isFinished = false;
+        public bool isStarted = false;
+        public bool isFinished = false;
 
         GameModel model = Schedule.GetModel<GameModel>();
 
